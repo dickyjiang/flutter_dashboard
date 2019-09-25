@@ -1,0 +1,4 @@
+#Wed Sep 25 13:51:27 WIB 2019
+base.0=/Volumes/Data/PROJECTS/Dashboard Test/dashboardtest/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
